@@ -2,6 +2,8 @@
 
 這是一個測試用的專案。
 
+這是我的第一個 Claude Code Cloud Session 測試專案。
+
 ## 專案結構
 
 ```
